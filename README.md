@@ -21,7 +21,8 @@ Cyber Security Engineer | Penetration Tester
 
 ---
 
-<img align="right" src="https://storyset.com/illustration/cyber-security/amico/animate.svg" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+
 
 
 ## 🧑‍💻 About Me
