@@ -24,7 +24,6 @@ Cyber Security Engineer | Penetration Tester
 <img align="right" src="https://storyset.com/illustration/cyber-security/amico/animate.svg" width="350"/>
 
 
-
 ## 🧑‍💻 About Me
 
 - 🎓 Communications & Computer Engineering Graduate  
