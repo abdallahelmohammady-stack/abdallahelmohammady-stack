@@ -21,7 +21,7 @@ Cyber Security Engineer | Penetration Tester
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 
 ## 🧑‍💻 About Me
 
