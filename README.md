@@ -21,7 +21,10 @@ Cyber Security Engineer | Penetration Tester
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Cyber+Security+Engineer;Penetration+Tester;Breaking+Systems+Ethically">
+</p>
+
 
 ## 🧑‍💻 About Me
 
