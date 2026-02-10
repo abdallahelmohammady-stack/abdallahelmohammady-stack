@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-Cyber Security Engineer | Penetration Tester
+Penetration Tester
 </h3>
 
 <p align="center">
